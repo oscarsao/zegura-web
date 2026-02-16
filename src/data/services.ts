@@ -81,10 +81,10 @@ export const servicesData: ServiceData[] = [
         color: 'bg-blue-50',
         mascot: '/assets/cerdito-medico-para-seguros-zegura-web.png',
         partners: [
-            { name: 'Axa', logo: '/assets/12.png' },
-            { name: 'Mapfre', logo: '/assets/13.png' },
-            { name: 'Allianz', logo: '/assets/14.png' },
-            { name: 'Generali', logo: '/assets/15.png' }
+            // { name: 'Axa', logo: '/assets/12.png' },
+            // { name: 'Mapfre', logo: '/assets/13.png' },
+            // { name: 'Allianz', logo: '/assets/14.png' },
+            // { name: 'Generali', logo: '/assets/15.png' }
         ],
         benefits: [
             { title: 'Unificación', description: 'Agrupa tus pólizas y ahorra hasta un 15%.', icon: '🔗' },
@@ -181,10 +181,10 @@ export const servicesData: ServiceData[] = [
         color: 'bg-yellow-50',
         mascot: '/assets/cerdo-zegura-hucha-web.png',
         partners: [
-            { name: 'Santander', logo: '/assets/16.png' },
-            { name: 'BBVA', logo: '/assets/17.png' },
-            { name: 'CaixaBank', logo: '/assets/18.png' },
-            { name: 'Sabadell', logo: '/assets/19.png' }
+            // { name: 'Santander', logo: '/assets/16.png' },
+            // { name: 'BBVA', logo: '/assets/17.png' },
+            // { name: 'CaixaBank', logo: '/assets/18.png' },
+            // { name: 'Sabadell', logo: '/assets/19.png' }
         ],
         benefits: [
             { title: 'Menor Interés', description: 'Negociamos tipos por debajo del mercado.', icon: '📉' },
